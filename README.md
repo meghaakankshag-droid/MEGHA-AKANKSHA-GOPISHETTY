@@ -9,7 +9,7 @@
   <h1>Hey there, I'm Megha Akanksha Gopishetty</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%A7%A0;Turning+Data+into+Decisions+%F0%9F%93%8A;Creator+%7C+Learner+%7C+Builder+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%A7%A0;Turning+Data+into+Decisions+%F0%9F%93%8A;Learner+%7C+Builder+%7C+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,11 +20,8 @@
 
 I'm an **AI & ML Student** who believes that the best way to learn is to *build, break, and build again*. I'm on a mission to turn curiosity into code and data into meaningful stories.
 
-Beyond the terminal, I create content to make tech more accessible — whether that's a YouTube tutorial, a Medium deep-dive, or an Instagram reel breaking down complex concepts into 60 seconds.
-
 - 🧠 **Obsessed** with machine learning, neural networks, and the future of AI
 - 🎨 I believe **design + data** = the ultimate superpower
-- 📝 I write on **Medium** to teach what I learn — because explaining is the best way to understand
 - ☕ Fuelled by curiosity, caffeine, and the occasional bug that teaches me something new
 - 🌱 Currently deepening my expertise in **TensorFlow** and deep learning architectures
 
@@ -72,6 +69,9 @@ Beyond the terminal, I create content to make tech more accessible — whether t
   </a>
 </p>
 
+---
+
+<!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -104,18 +104,6 @@ Beyond the terminal, I create content to make tech more accessible — whether t
 
   <a href="http://www.linkedin.com/in/meghagopishetty">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@meghaakankshag">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://youtube.com/@meghaakankshag">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/meghaakankshag">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <br/><br/>
